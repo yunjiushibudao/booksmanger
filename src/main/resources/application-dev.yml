@@ -1,8 +1,8 @@
 spring:
     datasource:
-        url: jdbc:mysql://127.0.0.1:3306/a_book?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+        url: jdbc:mysql://10.26.102.56:3306/a_book?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
         username: root
-        password: 123456
+        password: NA4yFNuc
         #连接池的配置信息
         initialSize: 10
         minIdle: 10
